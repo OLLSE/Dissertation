@@ -1,4 +1,4 @@
-# Optimal Learning with the Knowlede Gradient
+# Optimal Learning with the Knowledge Gradient
 
  Candidate number 21381 <br>
  Department of Management<br> 
